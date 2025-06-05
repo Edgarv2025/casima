@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "casima", "casima.csproj", "{6243A4D7-5C42-43AE-8AD4-3A2395F2B7F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6243A4D7-5C42-43AE-8AD4-3A2395F2B7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6243A4D7-5C42-43AE-8AD4-3A2395F2B7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6243A4D7-5C42-43AE-8AD4-3A2395F2B7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6243A4D7-5C42-43AE-8AD4-3A2395F2B7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C2C80E8-9F3E-48A2-9CBA-A9BD2F8AD77F}
+	EndGlobalSection
+EndGlobal
